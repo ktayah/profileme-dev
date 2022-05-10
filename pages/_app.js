@@ -64,6 +64,12 @@ export const iconData = {
       link: "https://dart.dev/",
     },
     {
+      name: "Elixir",
+      path: "https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/elixir-colored.svg",
+      iTag: "elixir",
+      link: "https://elixir-lang.org",
+    },
+    {
       name: "Go",
       path: "https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg",
       iTag: "go",
@@ -352,6 +358,12 @@ export const iconData = {
       path: "https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg",
       iTag: "flutter",
       link: "https://flutter.dev/",
+    },
+    {
+      name: "Phoenix",
+      path: "https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/phoenix-colored.svg",
+      iTag: "phoenix",
+      link: "https://www.phoenixframework.org",
     },
   ],
   software: [
