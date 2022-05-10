@@ -65,9 +65,9 @@ export const iconData = {
     },
     {
       name: "Elixir",
-      path: "https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/elixir-colored.svg",
+      path: "https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/elixir.svg",
       darkPath:
-        "https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/elixir.svg",
+        "https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/elixir-dark.svg",
       iTag: "elixir",
       link: "https://elixir-lang.org",
     },
