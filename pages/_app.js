@@ -66,6 +66,8 @@ export const iconData = {
     {
       name: "Elixir",
       path: "https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/elixir-colored.svg",
+      darkPath:
+        "https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/elixir.svg",
       iTag: "elixir",
       link: "https://elixir-lang.org",
     },
@@ -361,7 +363,7 @@ export const iconData = {
     },
     {
       name: "Phoenix",
-      path: "https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/phoenix-colored.svg",
+      path: "https://raw.githubusercontent.com/ktayah/readme-generator/main/public/icons/skills/phoenix-colored.svg",
       iTag: "phoenix",
       link: "https://www.phoenixframework.org",
     },
